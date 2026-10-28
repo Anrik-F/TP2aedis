@@ -1,0 +1,8 @@
+Ash
+Misty
+3
+250
+1 Bulbasaur Planta 40 30
+2 Charmander Fogo 50 40
+3 Squirtle Agua 30 20
+
